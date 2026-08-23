@@ -1,0 +1,20 @@
+{
+  "name": "chat-app-pt2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luke7787/chat-app-pt2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luke7787/chat-app-pt2/issues"
+  },
+  "homepage": "https://github.com/Luke7787/chat-app-pt2#readme"
+}
