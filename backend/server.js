@@ -18,6 +18,10 @@ app.get("/api/auth/login", (req, res) => {
   console.log("login route");
 });
 
+app.get("/api/auth/logout", (req, res) => {
+  console.log("logout route");
+});
+
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
