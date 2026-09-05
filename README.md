@@ -1,3 +1,7 @@
 # Full-Stack Real-Time Chat Application
 
-Website Link: 
+Website Link:
+
+## Architecture
+
+* **Database:** MongoDB
